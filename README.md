@@ -3,10 +3,7 @@
 This repository contains notebooks implementing different AI-ML-DL algorithms.
 
 ## Datasets
-  - [Plant dataset](https://github.com/abdulrahmanjawad/AI-ML-DL-practice/tree/main/dataset/plant-dataset):
-      * TrainingSet
-      * TestSet
-      * TestSet-WithLabels
+  - [Plant dataset](https://github.com/abdulrahmanjawad/AI-ML-DL-practice/tree/main/dataset/plant-dataset)
 
 ## Algorithms
 
