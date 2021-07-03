@@ -19,7 +19,7 @@ Scratch implementation of Naive Bayes algorithm on a small employee dataset. Cal
 - [K Nearst Neighbors](https://github.com/abdulrahmanjawad/AI-ML-DL-practice/blob/main/k%20Nearest%20Neighbors.ipynb):
 Scratch implementation of kNN algorthim on plant dataset. Uses euclidean distance to find distance between neighbors. Comparison with Sklearn.neighbors done to compare accuracy.
 
-- [OR Gate Neural Network](https://github.com/abdulrahmanjawad/AI-ML-DL-practice/blob/main/OR%20Neural%20Network.ipynb):
+- [XOR Gate Neural Network](https://github.com/abdulrahmanjawad/AI-ML-DL-practice/blob/main/OR%20Neural%20Network.ipynb):
 Scratch implementation of neural network that trains for an OR gate. 
 
 - [Multi-Class Classification NN](https://github.com/abdulrahmanjawad/AI-ML-DL-practice/blob/main/Multi_class_Classification_NN.ipynb):
